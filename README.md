@@ -15,7 +15,7 @@
   - webpack
    - babel-loader
 
- ## リンク
+## リンク
 - [launcher](https://npmjs.org/browse/keyword/karma-launcher)
 - [preprocessor](https://npmjs.org/browse/keyword/karma-preprocessor)
 - [reporter](https://npmjs.org/browse/keyword/karma-reporter)
